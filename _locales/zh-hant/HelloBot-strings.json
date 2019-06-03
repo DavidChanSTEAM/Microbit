@@ -10,7 +10,7 @@
   "Car.Line_Sensor|block": "巡線傳感器|位置 %direct|檢測到 %value",
   "Car.Avoid_Sensor|block": "避障傳感器|位置 %direct|檢測到 %value",
   "Car.Servo_Car|block": "小車伺服摩打|編號 %num|角度 %value",
-  "Car.CarCtrl|block": "小車控制|%index",
+  "Car.CarCtrl|block": "馬達控制|%index",
   "Car.CarCtrlSpeed|block": "小車控制|%index|速度 %speed",
   "Car.CarCtrlSpeed2|block": "馬達控制|%index|馬達1速度 %speed1|馬達2速度 %speed2",
   "Car.enColor.OFF|block": "滅",
@@ -31,7 +31,7 @@
   "Car.enAvoidState.OBSTACLE|block": "有障礙物",
   "Car.enAvoidState.NOOBSTACLE|block": "無障礙物",
   
-  "Car.CarState.Car_Run|block": "前進",
+  "Car.CarState.Car_Run|block": "運轉",
   "Car.CarState.Car_Back|block": "後退",
   "Car.CarState.Car_Left|block": "左轉",
   "Car.CarState.Car_Right|block": "右轉",
