@@ -12,7 +12,7 @@
   "HelloBot.Servo_Car|block": "小車舵機|編號 %num|角度 %value",
   "HelloBot.CarCtrl|block": "小車控制|%index",
   "HelloBot.CarCtrlSpeed|block": "小車控制|%index|速度 %speed",
-  "HelloBot.CarCtrlSpeed2|block": "小車控制|%index|左電機速度 %speed1|右電機速度 %speed2",
+  "HelloBot.CarCtrlSpeed2|block": "馬達控制|%index|馬達1速度 %speed1|馬達2速度 %speed2",
   "HelloBot.enColor.OFF|block": "滅",
   "HelloBot.enColor.Red|block": "紅色",
   "HelloBot.enColor.Green|block": "綠色",
