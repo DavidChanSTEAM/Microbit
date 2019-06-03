@@ -12,7 +12,7 @@
   "Car.Servo_Car|block": "小車伺服摩打|編號 %num|角度 %value",
   "Car.CarCtrl|block": "小車控制|%index",
   "Car.CarCtrlSpeed|block": "小車控制|%index|速度 %speed",
-  "Car.CarCtrlSpeed2|block": "小車控制|%index|左摩打速度 %speed1|右摩打速度 %speed2",
+  "Car.CarCtrlSpeed2|block": "馬達控制|%index|馬達1速度 %speed1|馬達2速度 %speed2",
   "Car.enColor.OFF|block": "滅",
   "Car.enColor.Red|block": "紅色",
   "Car.enColor.Green|block": "綠色",
